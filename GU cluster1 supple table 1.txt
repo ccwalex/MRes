@@ -1,0 +1,88 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240226)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20580)	upload_1 (79)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+negative regulation of vascular endothelial cell proliferation (GO:1905563)	5	2	.02	+	 > 100	1.44E-04	3.73E-02
+negative regulation of SMAD protein signal transduction (GO:0060392)	21	3	.08	+	37.22	6.89E-05	2.28E-02
+SMAD protein signal transduction (GO:0060395)	28	3	.11	+	27.91	1.66E-04	3.96E-02
+regulation of SMAD protein signal transduction (GO:0060390)	59	4	.23	+	17.66	7.80E-05	2.53E-02
+regulation of extracellular matrix organization (GO:1903053)	62	4	.24	+	16.81	9.47E-05	3.01E-02
+cyclic-nucleotide-mediated signaling (GO:0019935)	69	4	.26	+	15.10	1.44E-04	3.78E-02
+digestive system process (GO:0022600)	78	4	.30	+	13.36	2.31E-04	4.96E-02
+transforming growth factor beta receptor superfamily signaling pathway (GO:0141091)	170	7	.65	+	10.73	4.08E-06	3.45E-03
+positive regulation of protein serine/threonine kinase activity (GO:0071902)	129	5	.50	+	10.10	1.39E-04	3.72E-02
+transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	183	7	.70	+	9.96	6.62E-06	4.59E-03
+kidney epithelium development (GO:0072073)	142	5	.55	+	9.17	2.18E-04	4.81E-02
+positive regulation of hormone secretion (GO:0046887)	146	5	.56	+	8.92	2.48E-04	5.04E-02
+regulation of angiogenesis (GO:0045765)	290	9	1.11	+	8.08	1.68E-06	1.97E-03
+regulation of vasculature development (GO:1901342)	296	9	1.14	+	7.92	1.99E-06	2.02E-03
+cell junction assembly (GO:0034329)	287	7	1.10	+	6.35	1.17E-04	3.44E-02
+positive regulation of kinase activity (GO:0033674)	304	7	1.17	+	6.00	1.67E-04	3.92E-02
+cellular response to peptide (GO:1901653)	308	7	1.18	+	5.92	1.81E-04	4.12E-02
+blood vessel development (GO:0001568)	530	12	2.03	+	5.90	8.02E-07	1.53E-03
+positive regulation of secretion (GO:0051047)	316	7	1.21	+	5.77	2.12E-04	4.75E-02
+regulation of system process (GO:0044057)	542	12	2.08	+	5.77	1.01E-06	1.72E-03
+vasculature development (GO:0001944)	551	12	2.12	+	5.67	1.21E-06	1.67E-03
+cellular response to growth factor stimulus (GO:0071363)	475	10	1.82	+	5.48	1.35E-05	7.64E-03
+blood vessel morphogenesis (GO:0048514)	431	9	1.65	+	5.44	4.01E-05	1.53E-02
+response to growth factor (GO:0070848)	506	10	1.94	+	5.15	2.33E-05	1.01E-02
+enzyme-linked receptor protein signaling pathway (GO:0007167)	614	12	2.36	+	5.09	3.69E-06	3.31E-03
+positive regulation of cell differentiation (GO:0045597)	871	17	3.34	+	5.08	2.60E-08	3.96E-04
+positive regulation of phosphorylation (GO:0042327)	622	12	2.39	+	5.03	4.21E-06	3.21E-03
+positive regulation of protein phosphorylation (GO:0001934)	576	11	2.21	+	4.97	1.21E-05	7.10E-03
+cellular response to hormone stimulus (GO:0032870)	506	9	1.94	+	4.63	1.37E-04	3.72E-02
+cellular response to nitrogen compound (GO:1901699)	623	11	2.39	+	4.60	2.50E-05	1.03E-02
+positive regulation of phosphorus metabolic process (GO:0010562)	700	12	2.69	+	4.47	1.39E-05	7.55E-03
+positive regulation of phosphate metabolic process (GO:0045937)	700	12	2.69	+	4.47	1.39E-05	7.28E-03
+regulation of cell migration (GO:0030334)	939	16	3.60	+	4.44	4.48E-07	1.37E-03
+positive regulation of cell migration (GO:0030335)	543	9	2.08	+	4.32	2.31E-04	4.90E-02
+cellular response to organonitrogen compound (GO:0071417)	546	9	2.10	+	4.29	2.41E-04	5.03E-02
+circulatory system development (GO:0072359)	928	15	3.56	+	4.21	2.09E-06	1.99E-03
+tube morphogenesis (GO:0035239)	683	11	2.62	+	4.20	5.76E-05	2.00E-02
+regulation of cell motility (GO:2000145)	999	16	3.83	+	4.17	1.02E-06	1.55E-03
+cellular response to endogenous stimulus (GO:0071495)	1147	18	4.40	+	4.09	2.54E-07	9.69E-04
+intracellular signaling cassette (GO:0141124)	829	13	3.18	+	4.09	1.51E-05	7.67E-03
+tube development (GO:0035295)	904	14	3.47	+	4.03	7.82E-06	4.97E-03
+regulation of anatomical structure morphogenesis (GO:0022603)	845	13	3.24	+	4.01	1.85E-05	8.79E-03
+regulation of locomotion (GO:0040012)	1041	16	4.00	+	4.00	1.74E-06	1.90E-03
+regulation of multicellular organismal development (GO:2000026)	1403	21	5.39	+	3.90	4.49E-08	3.42E-04
+positive regulation of protein modification process (GO:0031401)	763	11	2.93	+	3.76	1.54E-04	3.78E-02
+regulation of protein phosphorylation (GO:0001932)	913	13	3.50	+	3.71	4.13E-05	1.54E-02
+positive regulation of developmental process (GO:0051094)	1336	19	5.13	+	3.70	5.01E-07	1.27E-03
+regulation of phosphorylation (GO:0042325)	989	14	3.80	+	3.69	2.15E-05	9.91E-03
+cell migration (GO:0016477)	900	12	3.45	+	3.47	1.56E-04	3.78E-02
+positive regulation of protein metabolic process (GO:0051247)	1243	16	4.77	+	3.35	1.66E-05	8.14E-03
+regulation of cell differentiation (GO:0045595)	1562	20	6.00	+	3.34	1.23E-06	1.56E-03
+response to endogenous stimulus (GO:0009719)	1410	18	5.41	+	3.33	4.93E-06	3.58E-03
+cellular response to oxygen-containing compound (GO:1901701)	1054	13	4.05	+	3.21	1.76E-04	4.05E-02
+regulation of phosphate metabolic process (GO:0019220)	1149	14	4.41	+	3.17	1.09E-04	3.32E-02
+regulation of phosphorus metabolic process (GO:0051174)	1150	14	4.41	+	3.17	1.10E-04	3.29E-02
+cell motility (GO:0048870)	1079	13	4.14	+	3.14	2.21E-04	4.81E-02
+positive regulation of multicellular organismal process (GO:0051240)	1651	19	6.34	+	3.00	1.14E-05	6.93E-03
+intracellular signal transduction (GO:0035556)	1509	17	5.79	+	2.93	4.76E-05	1.69E-02
+regulation of developmental process (GO:0050793)	2442	26	9.37	+	2.77	6.96E-07	1.52E-03
+cell surface receptor signaling pathway (GO:0007166)	2076	22	7.97	+	2.76	7.24E-06	4.80E-03
+regulation of multicellular organismal process (GO:0051239)	2959	30	11.36	+	2.64	1.88E-07	9.54E-04
+response to organic substance (GO:0010033)	2465	22	9.46	+	2.33	1.45E-04	3.68E-02
+cellular response to chemical stimulus (GO:0070887)	2385	21	9.16	+	2.29	2.48E-04	4.97E-02
+regulation of signaling (GO:0023051)	3429	29	13.16	+	2.20	2.31E-05	1.04E-02
+regulation of cell communication (GO:0010646)	3435	29	13.19	+	2.20	2.34E-05	9.91E-03
+multicellular organism development (GO:0007275)	3957	33	15.19	+	2.17	4.21E-06	3.38E-03
+regulation of signal transduction (GO:0009966)	3018	25	11.59	+	2.16	1.53E-04	3.82E-02
+system development (GO:0048731)	3541	29	13.59	+	2.13	3.18E-05	1.24E-02
+response to chemical (GO:0042221)	3765	29	14.45	+	2.01	1.03E-04	3.22E-02
+negative regulation of cellular process (GO:0048523)	4833	35	18.55	+	1.89	4.62E-05	1.68E-02
+negative regulation of biological process (GO:0048519)	5193	36	19.93	+	1.81	1.23E-04	3.54E-02
+signal transduction (GO:0007165)	4769	33	18.31	+	1.80	2.43E-04	5.01E-02
+anatomical structure development (GO:0048856)	5216	36	20.02	+	1.80	1.26E-04	3.55E-02
+developmental process (GO:0032502)	5723	38	21.97	+	1.73	1.28E-04	3.55E-02
+multicellular organismal process (GO:0032501)	6721	44	25.80	+	1.71	3.08E-05	1.23E-02
+response to stimulus (GO:0050896)	8143	49	31.26	+	1.57	6.88E-05	2.33E-02
